@@ -1,0 +1,933 @@
+Dateiname,Bild,Erkannte Objekte
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/10th_five_year_plan.jpg,Bild 1,flag
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/11th_vertov.jpg,Bild 2,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/15th_anniversary.jpg,Bild 3,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/1980_olympic_games.jpg,Bild 4,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/27th_kpss.jpg,Bild 5,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/2plus2equals5.jpg,Bild 6,"weapon, military, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/2x2_vodka.jpg,Bild 7,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/6th_festival.jpg,Bild 8,"weapon, building"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/800_moscow.jpg,Bild 9,"military, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/8th_of_march.jpg,Bild 10,"flower, sky, office worker, flower"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/Der-Transsibirische-Express.jpg,Bild 11,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/Mao_Zedong_Stalin.jpg,Bild 12,"military, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/ads_on_trolley.jpg,Bild 13,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/aim_for_peace.jpg,Bild 14,"agricultural labourer, weapon, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/alcohol_poisoning.jpg,Bild 15,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/alert_soldier.jpg,Bild 16,"weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/all_for_elections.jpg,Bild 17,"agricultural labourer, agricultural labourer, factory worker, weapon, headscarf, headscarf, office worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/all_people_brothers.jpg,Bild 18,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/all_to_elections.jpg,Bild 19,"headscarf, factory worker, sky, headscarf, sky, factory worker, sky, sky"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/antoine_exupery.jpg,Bild 20,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/arms-race.jpg,Bild 21,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/asia_peace.jpg,Bild 22,"weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/baikal_amur.jpg,Bild 23,"office worker, military, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/bam-real-job.jpg,Bild 24,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/bam_mainline.jpg,Bild 25,"factory worker, agricultural labourer, book"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/be_frugal.jpg,Bild 26,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/be_worthy.jpg,Bild 27,flag
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/beers_soft_drinks.jpg,Bild 28,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/belinskiy.jpg,Bild 29,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/better_living.jpg,Bild 30,headscarf
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/black_crows.jpg,Bild 31,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/black_friend.png,Bild 32,"building, office worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/book_bazaar.jpg,Bild 33,"factory worker, flag, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/book_for_girl_woman.jpg,Bild 34,"grass, factory worker, grass, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/book_for_soldier.jpg,Bild 35,wheat
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/book_is_not_kitchen.jpg,Bild 36,machinery
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/book_is_not_pocket.jpg,Bild 37,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/book_lottery.jpg,Bild 38,"weapon, book"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/book_source_knowledge.jpg,Bild 39,"factory worker, crane, crane"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/builder.jpg,Bild 40,"crane, building, factory worker, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/calendar_5.jpg,Bild 41,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/carrying-idol.jpg,Bild 42,"sickle, military, hammer, sickle, sickle, military, sickle, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/cause_of_defect.jpg,Bild 43,office worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/chains-of-slavery.jpg,Bild 44,"building, book"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/cheluskin.jpg,Bild 45,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/cholera_death.jpg,Bild 46,"office worker, factory worker, office worker, military, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/citrus-juice.jpg,Bild 47,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/collaboration_cooperation.jpg,Bild 48,"flower, flower, flower, flower, flower"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/collectivization_1929.jpg,Bild 49,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/come-to-construction-site.jpg,Bild 50,"factory worker, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/come_with_us.jpg,Bild 51,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/comrades_lumberjacks.jpg,Bild 52,"factory worker, factory worker, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/constitution_usa.jpg,Bild 53,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/cosmos_be_peaceful.jpg,Bild 54,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/cosmos_peaceful.jpg,Bild 55,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/cranes_flying.jpg,Bild 56,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/crash_mercilessly.jpg,Bild 57,objects
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/creative_labor.jpg,Bild 58,office worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/criminal_slaughter.jpg,Bild 59,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/daesh.jpg,Bild 60,"crane, crane, office worker, building, office worker, office worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/daily_plan.jpg,Bild 61,"factory worker, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/death-to-imperializm.jpg,Bild 62,building
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/death_to_capital.jpg,Bild 63,"flag, factory worker, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/decree-on-peace.jpg,Bild 64,"crane, crane, crane, crane, crane, crane"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/demand_beer.jpg,Bild 65,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/deni_rot_front.jpg,Bild 66,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/deputy_servant.jpg,Bild 67,"factory worker, office worker, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/deserter_dishonor.jpg,Bild 68,"factory worker, wheat, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/develop_pig_farming.jpg,Bild 69,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/dictate_of_proletariat.jpg,Bild 70,"wheat, wheat, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/disarmament_dicate.jpg,Bild 71,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/disarmament_dictate.jpg,Bild 72,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/do-not-get-distracted.jpg,Bild 73,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/do_not_admit.jpg,Bild 74,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/donbass.jpg,Bild 75,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/down-with-the-autocracy.jpg,Bild 76,"factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/drunk_and_vodka.jpg,Bild 77,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/drunk_driving.jpg,Bild 78,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/enemy_help.jpg,Bild 79,"office worker, factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/equal_rights.jpg,Bild 80,"office worker, office worker, factory worker, office worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/evolution_of_human.jpg,Bild 81,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/exercise.jpg,Bild 82,"office worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/experienced_workers.jpg,Bild 83,"weapon, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/famale_cook_lenin.jpg,Bild 84,"factory worker, headscarf, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/family-honor.jpg,Bild 85,"factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/fascism-enemy.jpg,Bild 86,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/fight-facism.jpg,Bild 87,"weapon, flag, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/fight_alcoholism.jpg,Bild 88,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/fight_cholera.jpg,Bild 89,office worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/fight_the_illiteracy.jpg,Bild 90,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/firght_for_harvest.jpg,Bild 91,"factory worker, machinery, building"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/five_year_plan_in_four_years.jpg,Bild 92,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/flying-ship.jpg,Bild 93,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/for_book_against_vodka.jpg,Bild 94,office worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/for_bookshelf.jpg,Bild 95,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/for_health.jpg,Bild 96,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/for_the_life_on_earth.jpg,Bild 97,"weapon, plane"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/forgiveness_aggressor.jpg,Bild 98,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/freedom-loan.jpg,Bild 99,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/freedom_loan.jpg,Bild 100,"factory worker, military, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/freshness_skin.jpg,Bild 101,"factory worker, headscarf, book, book, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/gagarin_cosmos_serve_people.jpg,Bild 102,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/gagarin_looking_at_earth.jpg,Bild 103,"flower, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/gagarin_world.jpg,Bild 104,objects
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/get_be_ready.jpg,Bild 105,"factory worker, machinery"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/get_to_work.jpg,Bild 106,office worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/glory-to-motherland.jpg,Bild 107,star
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/glory-to-partisan.jpg,Bild 108,"weapon, military, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/glory-to-women.jpg,Bild 109,"office worker, military, weapon, military, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/goebbles_lies.jpg,Bild 110,machinery
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/gpu_deni.jpg,Bild 111,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/great_job.jpg,Bild 112,"factory worker, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/hamlet.jpg,Bild 113,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/happy_new_year_1957.jpg,Bild 114,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/healthy-worker.jpg,Bild 115,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/hello-to_stalin.jpg,Bild 116,"flag, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/hello_to_stalin.jpg,Bild 117,"flag, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/help_starving.jpg,Bild 118,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/herring_ad.jpg,Bild 119,"objects, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/high_harvest_of_victory.jpg,Bild 120,"grass, machinery, machinery"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/hit_the_enemy_hammer.jpg,Bild 121,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/hitler_teeth.jpg,Bild 122,machinery
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/how_was_how_will.jpg,Bild 123,"wheat, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/how_well_you_worked.jpg,Bild 124,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/human_to_human.jpg,Bild 125,"factory worker, factory worker, factory worker, factory worker, factory worker, office worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/ice_cream.jpg,Bild 126,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/idler_profit.jpg,Bild 127,"factory worker, machinery"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/illiteral_to_school.jpg,Bild 128,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/inclination40.jpg,Bild 129,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/international_day.jpg,Bild 130,"agricultural labourer, agricultural labourer, headscarf, headscarf, headscarf, agricultural labourer, agricultural labourer, headscarf, headscarf, headscarf, headscarf, headscarf, headscarf, agricultural labourer, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/ivan_vasilievich_changes_profession.jpg,Bild 131,"office worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/kick_kulak_away.jpg,Bild 132,"factory worker, weapon, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/knife_under_earth.jpg,Bild 133,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/knowledge-to-everyone.jpg,Bild 134,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/kodak.jpg,Bild 135,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/konstantin_yuon.jpg,Bild 136,"flag, factory worker, building, machinery"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/korean_nation.jpg,Bild 137,"weapon, office worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/kpss_komsomol.jpg,Bild 138,"military, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/labor_victories.jpg,Bild 139,"flag, flag, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/learn_work.jpg,Bild 140,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/leisure.jpg,Bild 141,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/lenin-kpss.jpg,Bild 142,"factory worker, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/lenin_1870.jpg,Bild 143,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/lenin_ghost.jpg,Bild 144,"building, flag, military, office worker, crane, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/lenin_promise.jpg,Bild 145,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/lenin_speeches.jpg,Bild 146,"factory worker, factory worker, building, office worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/lenin_sweeping.jpg,Bild 147,"wheat, factory worker, office worker, wheat, weapon, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/leninas_su_mumis.jpg,Bild 148,"military, military, office worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/lenins_komsomol.jpg,Bild 149,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/lets_take_it.jpg,Bild 150,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/lithuania_march8.jpg,Bild 151,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/long_live_soviet_sport.jpg,Bild 152,"flag, flag, flag, sky, building"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/looting.jpg,Bild 153,flower
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/make-suggestions.jpg,Bild 154,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/manage_skillfully.jpg,Bild 155,objects
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/mao.jpg,Bild 156,"factory worker, office worker, office worker, office worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/may_1st_workers_day.jpg,Bild 157,"flag, factory worker, wheat"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/may_first.jpg,Bild 158,"flower, flower, flower, flower, weapon, flower, flower, flower, flower, flower, flower"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/medvedev_strongmen.jpg,Bild 159,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/men_help_women.jpg,Bild 160,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/mighty_nation.jpg,Bild 161,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/mind_honor_conscience.jpg,Bild 162,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/moscow-beijing.jpg,Bild 163,"factory worker, agricultural labourer, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/moscow-competition.jpg,Bild 164,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/moscow_is_the_capital.jpg,Bild 165,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/motherland_orders.jpg,Bild 166,"factory worker, building"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/my_planet.jpg,Bild 167,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/my_pupil.jpg,Bild 168,"factory worker, military, agricultural labourer, star"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/napping_at-_work.jpg,Bild 169,wheat
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/narkompisheprom_sssr.jpg,Bild 170,sky
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/nasty_job.jpg,Bild 171,"factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/national_profit.jpg,Bild 172,"factory worker, factory worker, machinery"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/nations_waiting.jpg,Bild 173,"hammer, sickle, grass, factory worker, book"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/nationwide_spartakiada.jpg,Bild 174,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/native_council.jpg,Bild 175,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/nato_money.jpg,Bild 176,plane
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/never-forget.jpg,Bild 177,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/nevsky_alexandr.jpg,Bild 178,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/new_achievments.jpg,Bild 179,sky
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/new_victories.jpg,Bild 180,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/newspaper_dawn.jpg,Bild 181,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/nipples.jpg,Bild 182,"factory worker, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/no_alcohol_snake.jpg,Bild 183,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/no_nuclear_bomb.jpg,Bild 184,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/no_to_nuclear_bomb.jpg,Bild 185,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/normal_weight.jpg,Bild 186,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/nothing_forgotten.jpg,Bild 187,"star, factory worker, star"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/nuclear_weapons_21.jpg,Bild 188,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/october_movie.jpg,Bild 189,"machinery, machinery"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/october_revolution_anniversary.jpg,Bild 190,"factory worker, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/october_revolution_gives.jpg,Bild 191,"building, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/october_victory_main_event.jpg,Bild 192,"office worker, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/old_man.jpg,Bild 193,"weapon, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/one_child_two.jpg,Bild 194,"office worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/our_first_task_stalin.jpg,Bild 195,"weapon, building, star, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/our_world.jpg,Bild 196,"factory worker, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/our_world_records.jpg,Bild 197,"factory worker, headscarf, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/park_of_culture.jpg,Bild 198,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/party_congress.jpg,Bild 199,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/party_lenin_brothers.jpg,Bild 200,office worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/path_lenin.jpg,Bild 201,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/peace_chalk_boy.jpg,Bild 202,agricultural labourer
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/peace_names.jpg,Bild 203,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/peace_sign_flower.jpg,Bild 204,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/peace_to_children_of_earth.jpg,Bild 205,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/peace_to_nations.jpg,Bild 206,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/pencil_mospoligraf.jpg,Bild 207,"crane, building, crane"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/people_and_party_are_united.jpg,Bild 208,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/people_rule.jpg,Bild 209,"military, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/people_will_peace.jpg,Bild 210,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/peoples-militia.jpg,Bild 211,"military, weapon, wheat"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/pershing_missile.jpg,Bild 212,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/petrograd_no_giveup.jpg,Bild 213,"factory worker, building, factory worker, flag, plane, hammer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/phrases_bases.jpg,Bild 214,"machinery, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/plenty_for_rich.jpg,Bild 215,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/politics_of_peace.jpg,Bild 216,flag
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_10026_den.jpg,Bild 217,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_1251647417lenin_flag.jpg,Bild 218,agricultural labourer
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_1268759838nato_neutron.jpg,Bild 219,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_1521855725gagarin.jpg,Bild 220,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_1521856238kolhoz.jpg,Bild 221,"agricultural labourer, agricultural labourer, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_1525946205replace.jpg,Bild 222,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_1526566151lenin.jpg,Bild 223,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_1530060514ballade_soldier.jpg,Bild 224,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_1531048734stalin_cremlin.jpg,Bild 225,"book, star, office worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_1531672692mozerovskie_watches.jpg,Bild 226,"objects, objects, objects, objects, objects"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_1534252495quality.jpg,Bild 227,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_1537599402beer_ad.jpg,Bild 228,office worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_1538394038breaking_bomb.jpg,Bild 229,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_1549279897vietnam_war.jpg,Bild 230,"factory worker, crane, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_1559845049labor_peace.jpg,Bild 231,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_15643524035in4plan.jpg,Bild 232,"factory worker, plane, wheat"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_1575343088lenin_kremlin.jpg,Bild 233,"crane, military, star, flag, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_1914_1941.jpg,Bild 234,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_1917.jpg,Bild 235,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_1945_1985.jpg,Bild 236,"star, flag, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_1st_of_may.jpg,Bild 237,flag
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_1stmay.jpg,Bild 238,"flag, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_20000000.jpg,Bild 239,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_25_kpss.jpg,Bild 240,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_26congress.jpg,Bild 241,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_26kpss.jpg,Bild 242,"office worker, military, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_26th_kpss.jpg,Bild 243,"agricultural labourer, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_27congress.jpg,Bild 244,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_8_march.jpg,Bild 245,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_8th_march_women.jpg,Bild 246,building
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_9_days_movie.jpg,Bild 247,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Apollo-Soyuz.jpg,Bild 248,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_002.jpg,Bild 249,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_003.jpg,Bild 250,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_005.jpg,Bild 251,"hammer, hammer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_007.jpg,Bild 252,flag
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_031.jpg,Bild 253,"hammer, flag, hammer, weapon, hammer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_096.jpg,Bild 254,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_239.jpg,Bild 255,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_276.jpg,Bild 256,"weapon, weapon, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_284.jpg,Bild 257,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_285.jpg,Bild 258,"weapon, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_286.jpg,Bild 259,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_289.jpg,Bild 260,agricultural labourer
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_300.jpg,Bild 261,"mountain, wheat"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_302.jpg,Bild 262,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_303.jpg,Bild 263,"wheat, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_304.jpg,Bild 264,"agricultural labourer, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_310.jpg,Bild 265,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_312.jpg,Bild 266,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_318.jpg,Bild 267,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_319.jpg,Bild 268,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_320.jpg,Bild 269,"factory worker, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_334.jpg,Bild 270,"military, headscarf, factory worker, office worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_336.jpg,Bild 271,"star, military, star"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_337.jpg,Bild 272,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_343.jpg,Bild 273,"factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_344.jpg,Bild 274,"headscarf, agricultural labourer, flag, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_357.jpg,Bild 275,"factory worker, military, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_363.jpg,Bild 276,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_364.jpg,Bild 277,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_370.jpg,Bild 278,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Br_371.jpg,Bild 279,star
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Go_009.jpg,Bild 280,office worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Go_022.jpg,Bild 281,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Go_024.jpg,Bild 282,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Go_055.jpg,Bild 283,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Go_061.jpg,Bild 284,wheat
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Go_065.jpg,Bild 285,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Go_078.jpg,Bild 286,flag
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Hr_006.jpg,Bild 287,"military, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Hr_007.jpg,Bild 288,"headscarf, factory worker, flag, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Hr_009.jpg,Bild 289,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Hr_015.jpg,Bild 290,"agricultural labourer, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_003.jpg,Bild 291,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_004.jpg,Bild 292,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_006.jpg,Bild 293,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_007.jpg,Bild 294,star
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_009.jpg,Bild 295,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_012.jpg,Bild 296,"headscarf, headscarf, headscarf, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_017.jpg,Bild 297,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_018.jpg,Bild 298,machinery
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_022.jpg,Bild 299,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_023.jpg,Bild 300,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_028.jpg,Bild 301,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_029.jpg,Bild 302,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_030.jpg,Bild 303,book
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_031.jpg,Bild 304,"weapon, wheat"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_034.jpg,Bild 305,machinery
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_036.jpg,Bild 306,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_040.jpg,Bild 307,"factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_043.jpg,Bild 308,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_044.jpg,Bild 309,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_048.jpg,Bild 310,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_050.jpg,Bild 311,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_051.jpg,Bild 312,grass
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_055.jpg,Bild 313,"military, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_058.jpg,Bild 314,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_060.jpg,Bild 315,"weapon, flag, office worker, military, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_062.jpg,Bild 316,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_064.jpg,Bild 317,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_068.jpg,Bild 318,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_073.jpg,Bild 319,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_074.jpg,Bild 320,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_075.jpg,Bild 321,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_076.jpg,Bild 322,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_077.jpg,Bild 323,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_082.jpg,Bild 324,"building, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_Le_086.jpg,Bild 325,"factory worker, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_014.jpg,Bild 326,agricultural labourer
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_021.jpg,Bild 327,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_022.jpg,Bild 328,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_025.jpg,Bild 329,agricultural labourer
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_026.jpg,Bild 330,"star, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_031.jpg,Bild 331,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_032.jpg,Bild 332,"factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_033.jpg,Bild 333,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_035.jpg,Bild 334,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_036.jpg,Bild 335,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_038.jpg,Bild 336,agricultural labourer
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_043.jpg,Bild 337,"military, crane, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_044.jpg,Bild 338,"sky, factory worker, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_045.jpg,Bild 339,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_049.jpg,Bild 340,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_050.jpg,Bild 341,"factory worker, factory worker, factory worker, agricultural labourer, factory worker, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_052.jpg,Bild 342,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_053.jpg,Bild 343,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_055.jpg,Bild 344,"agricultural labourer, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_056.jpg,Bild 345,"factory worker, factory worker, star, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_059.jpg,Bild 346,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_St_068.jpg,Bild 347,"agricultural labourer, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_WellLiveTillMonday.jpg,Bild 348,"office worker, office worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_above_the.jpg,Bild 349,"plane, sky, plane, sky, sky"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_absence_work.jpg,Bild 350,"factory worker, hammer, wheat, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_agriculture.jpg,Bild 351,objects
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_airplane_flag.jpg,Bild 352,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_american_flag.jpg,Bild 353,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_anti-alcohol_campaign.jpg,Bild 354,"factory worker, building, book"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_apartheid.jpg,Bild 355,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_apple_worm.jpg,Bild 356,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_arms_race.jpg,Bild 357,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_aviation.jpg,Bild 358,flag
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_aviators-march.jpg,Bild 359,"agricultural labourer, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_baby_earth.jpg,Bild 360,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_baloon.jpg,Bild 361,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_be_a_hero.jpg,Bild 362,"military, headscarf, agricultural labourer, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_be_alert.jpg,Bild 363,"weapon, military, weapon, star, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_believe-anniversary.jpg,Bild 364,"hammer, military, sickle, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_bell_mir.jpg,Bild 365,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_billiards.jpg,Bild 366,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_bird_house.jpg,Bild 367,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_birth.jpg,Bild 368,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_blabber.jpg,Bild 369,"military, wheat"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_black-caviar.jpg,Bild 370,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_black_caviar.jpg,Bild 371,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_black_kassa.jpg,Bild 372,office worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_bomb_cage.jpg,Bild 373,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_bomb_hand.jpg,Bild 374,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_bomb_no.jpg,Bild 375,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_bomb_on_earth.jpg,Bild 376,plane
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_brave.jpg,Bild 377,"factory worker, crane, factory worker, hammer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_bread_for_workers.jpg,Bild 378,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_bread_labor.jpg,Bild 379,"agricultural labourer, weapon, headscarf, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_bread_motherland.jpg,Bild 380,"agricultural labourer, headscarf, wheat, headscarf, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_bread_respect.jpg,Bild 381,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_breed_rabbits.jpg,Bild 382,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_brezhnev.jpg,Bild 383,"military, office worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_brother.jpg,Bild 384,"agricultural labourer, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_built_to_last.jpg,Bild 385,"crane, factory worker, crane"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_bureaucracy.jpg,Bild 386,"office worker, military, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_candidate_plans.jpg,Bild 387,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_canned_sturgeon.jpg,Bild 388,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_capitalism_socialism.jpg,Bild 389,"office worker, office worker, office worker, office worker, weapon, factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_captains.jpg,Bild 390,office worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_care_to_people.jpg,Bild 391,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cast_iron.jpg,Bild 392,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_castro_hrushev.jpg,Bild 393,"star, military, sickle, hammer, weapon, weapon, flag, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cccp_birds.jpg,Bild 394,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cccp_lenin.jpg,Bild 395,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_chances.jpg,Bild 396,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_checkmate.jpg,Bild 397,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cheese-ad.jpg,Bild 398,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_child.jpg,Bild 399,"agricultural labourer, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_child_draw.jpg,Bild 400,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_child_earth.jpg,Bild 401,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_child_helmet.jpg,Bild 402,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_child_mother.jpg,Bild 403,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_children_protest.jpg,Bild 404,"flag, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_chili.jpg,Bild 405,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_chocking_snake.jpg,Bild 406,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_christmas.jpg,Bild 407,"star, military, military, military, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cigarettes_guns.jpg,Bild 408,"plane, machinery"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cinema_to_masses.jpg,Bild 409,"headscarf, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cinsovpost_00003.jpg,Bild 410,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cinsovpost_00004.jpg,Bild 411,"weapon, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cinsovpost_00005.jpg,Bild 412,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cinsovpost_00006.jpg,Bild 413,"machinery, weapon, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cinsovpost_00008.jpg,Bild 414,"agricultural labourer, factory worker, factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cinsovpost_00009.jpg,Bild 415,agricultural labourer
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cinsovpost_00011.jpg,Bild 416,"weapon, weapon, office worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cinsovpost_00017.jpg,Bild 417,book
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cinsovpost_00019.jpg,Bild 418,"office worker, military, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cinsovpost_00020.jpg,Bild 419,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cinsovpost_00024.jpg,Bild 420,machinery
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cinsovpost_00028.jpg,Bild 421,"factory worker, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cinsovpost_00029.jpg,Bild 422,"factory worker, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_circuit.jpg,Bild 423,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_class_enemy.jpg,Bild 424,"factory worker, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_clean_sky.jpg,Bild 425,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_clear_sky.jpg,Bild 426,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_closer_to_life.jpg,Bild 427,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_combat_pilots.jpg,Bild 428,"plane, factory worker, plane"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_communism-studying.jpg,Bild 429,"flag, building, star"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_construction.jpg,Bild 430,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_corn_source.jpg,Bild 431,"agricultural labourer, headscarf, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_corvalan_l.jpg,Bild 432,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cosmonaut.jpg,Bild 433,headscarf
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cow.jpg,Bild 434,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cows_farms.jpg,Bild 435,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_criminal.jpg,Bild 436,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_crutches.jpg,Bild 437,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cultsovpost_00002.jpg,Bild 438,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cultsovpost_00004.jpg,Bild 439,"agricultural labourer, wheat, wheat, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cultsovpost_00005.jpg,Bild 440,"crane, building, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cultsovpost_00006.jpg,Bild 441,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cultsovpost_00009.jpg,Bild 442,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cultsovpost_00010.jpg,Bild 443,"factory worker, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cultsovpost_00011.jpg,Bild 444,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cultsovpost_00012.jpg,Bild 445,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cultsovpost_00015.jpg,Bild 446,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cultsovpost_00018.jpg,Bild 447,star
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_cultural_revolution.jpg,Bild 448,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_dad_drink.jpg,Bild 449,"sickle, sickle"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_death_to_invaders.jpg,Bild 450,"star, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_decree_peace.jpg,Bild 451,agricultural labourer
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_defend_soviet_russia.jpg,Bild 452,"star, weapon, star, sky, star, weapon, weapon, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_derbi.jpg,Bild 453,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_desert.jpg,Bild 454,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_dialogue.jpg,Bild 455,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_dnipro_water.jpg,Bild 456,"military, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_do_not_blab.jpg,Bild 457,"factory worker, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_do_not_lie.jpg,Bild 458,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_dobrolet_sssr.jpg,Bild 459,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_doll.jpg,Bild 460,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_down_with_drunks.jpg,Bild 461,"factory worker, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_drunks_pigs.jpg,Bild 462,headscarf
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_duck_farming.jpg,Bild 463,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_dziga_vetrov_kinoeye.jpg,Bild 464,"weapon, factory worker, factory worker, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_dzvko.jpg,Bild 465,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_eagle_pigeon.jpg,Bild 466,"military, headscarf, star"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_earn_as_worked.jpg,Bild 467,"factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_earn_thanks.jpg,Bild 468,"factory worker, agricultural labourer, agricultural labourer, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_earth.jpg,Bild 469,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_earth_palms.jpg,Bild 470,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_edinolichniki.jpg,Bild 471,"book, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_elect.jpg,Bild 472,"factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_elephant.jpg,Bild 473,"weapon, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_enemy_invader.jpg,Bild 474,"military, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_enemyalert.jpg,Bild 475,"military, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_engineer.jpg,Bild 476,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_eridicate_evil.jpg,Bild 477,"factory worker, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_europe_nuclear.jpg,Bild 478,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_europe_peace.jpg,Bild 479,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_europe_rocket.jpg,Bild 480,crane
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_europe_target.jpg,Bild 481,"sky, sky"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_evolution_tools.jpg,Bild 482,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_export_usa.jpg,Bild 483,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_family_new_lands.jpg,Bild 484,book
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_fascism-is.jpg,Bild 485,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_fascist_beast.jpg,Bild 486,"flag, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_festival_theatral.jpg,Bild 487,flag
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_field_wait.jpg,Bild 488,"agricultural labourer, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_fight_for_peace.jpg,Bild 489,agricultural labourer
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_fight_hooligans.jpg,Bild 490,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_fist_pigeon.jpg,Bild 491,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_five_year_plan.jpg,Bild 492,"star, wheat"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_flag_lenin.jpg,Bild 493,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_flag_of_victory.jpg,Bild 494,"office worker, weapon, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_flag_wrap.jpg,Bild 495,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_flagholders.jpg,Bild 496,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_flowers_vase.jpg,Bild 497,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_foods_stores.jpg,Bild 498,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_for_motherland.jpg,Bild 499,"military, weapon, military, military, military, weapon, sky, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_for_the_peace.jpg,Bild 500,flag
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_freedom_arab.jpg,Bild 501,"factory worker, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_gavno_shit.jpg,Bild 502,office worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_glory_aviation.jpg,Bild 503,"military, star, weapon, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_glory_soviet_railroad.jpg,Bild 504,"factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_glory_to_russian.jpg,Bild 505,"book, factory worker, weapon, office worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_glory_to_soviet.jpg,Bild 506,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_glory_to_victor.jpg,Bild 507,"military, star"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_glory_work.jpg,Bild 508,"military, weapon, military, weapon, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_golden_age.jpg,Bild 509,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_good_life.jpg,Bild 510,"factory worker, factory worker, headscarf, factory worker, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_happiness.jpg,Bild 511,"factory worker, objects"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_happy-customers.jpg,Bild 512,"factory worker, factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_happy_child.jpg,Bild 513,"factory worker, factory worker, factory worker, weapon, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_happy_life.jpg,Bild 514,"weapon, military, military, weapon, military, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_hats_ad.jpg,Bild 515,flag
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_healers.jpg,Bild 516,"military, office worker, office worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_heig.jpg,Bild 517,"agricultural labourer, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_help_front.jpg,Bild 518,"star, weapon, military, weapon, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_hi-motherland.jpg,Bild 519,"sky, agricultural labourer, agricultural labourer, headscarf, star, factory worker, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_hi_members.jpg,Bild 520,"military, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_high_yield.jpg,Bild 521,"agricultural labourer, headscarf, wheat, wheat, wheat, sky, headscarf, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_higher_further_faster.jpg,Bild 522,"weapon, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_higher_the_flag.jpg,Bild 523,"military, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_hit.jpg,Bild 524,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_hit_harvesting.jpg,Bild 525,"agricultural labourer, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_hit_the_enemy.jpg,Bild 526,"factory worker, hammer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_hit_to_death (1).jpg,Bild 527,"wheat, military, military, wheat"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_hit_to_death.jpg,Bild 528,"wheat, military, military, wheat"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_hlebozagotovka.jpg,Bild 529,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_hooligan.jpg,Bild 530,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_idiot_movie_poster.jpg,Bild 531,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_if_war_was_tomorrow.jpg,Bild 532,"military, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_illiteral_blind.jpg,Bild 533,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_illiterate_child_shame.jpg,Bild 534,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_industrysovpost_00011.jpg,Bild 535,"crane, crane, crane, crane, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_industrysovpost_00014.jpg,Bild 536,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_industrysovpost_00016.jpg,Bild 537,"machinery, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_industrysovpost_00017.jpg,Bild 538,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_industrysovpost_00018.jpg,Bild 539,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_international_communist.jpg,Bild 540,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_iris_candy_ad.jpg,Bild 541,"factory worker, factory worker, book"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_jorney_mars.jpg,Bild 542,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_june_1st.jpg,Bild 543,"agricultural labourer, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_karachentsov_petr.jpg,Bild 544,plane
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_keep_secrets.jpg,Bild 545,"weapon, weapon, factory worker, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_kill_enemy_nomercy.jpg,Bild 546,"military, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_kitchen_slavery.jpg,Bild 547,"crane, building, grass"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_knowledge_to_everyone.jpg,Bild 548,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_kolhoz_women.jpg,Bild 549,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_komsomol.jpg,Bild 550,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_kpss_mohov.jpg,Bild 551,"agricultural labourer, crane, crane, agricultural labourer, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_ksssrpost_0004.jpg,Bild 552,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_ksssrpost_0007.jpg,Bild 553,plane
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_ksssrpost_0008_den.jpg,Bild 554,"office worker, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_ksssrpost_0009.jpg,Bild 555,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_ksssrpost_0016.jpg,Bild 556,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_ksssrpost_0017.jpg,Bild 557,objects
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_ksssrpost_0020.jpg,Bild 558,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_ksssrpost_0025.jpg,Bild 559,"machinery, machinery, machinery, wheat, machinery, machinery, wheat, wheat"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_ksssrpost_0026.jpg,Bild 560,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_ksssrpost_0027.jpg,Bild 561,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_ksssrpost_0032.jpg,Bild 562,objects
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_ksssrpost_0037.jpg,Bild 563,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_ksssrpost_0038.jpg,Bild 564,"factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_ksssrpost_0041.jpg,Bild 565,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_ksssrpost_0050.jpg,Bild 566,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_ksssrpost_0053.jpg,Bild 567,"factory worker, factory worker, flag, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_ksssrpost_0056.jpg,Bild 568,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_ksssrpost_0057.jpg,Bild 569,"plane, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_kvas.jpg,Bild 570,"office worker, machinery"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_labor_rights.jpg,Bild 571,"factory worker, military, crane, office worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_laziness.jpg,Bild 572,flag
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_league_of_nations.jpg,Bild 573,wheat
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_lenin_1924.jpg,Bild 574,"weapon, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_lenin_1973.jpg,Bild 575,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_lenin_bw.jpg,Bild 576,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_lenin_electrification.jpg,Bild 577,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_lenin_hand.jpg,Bild 578,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_lenin_head.jpg,Bild 579,"agricultural labourer, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_lenin_lived.jpg,Bild 580,"star, military, weapon, hammer, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_lenin_ushanka.jpg,Bild 581,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_let_be_me.jpg,Bild 582,"office worker, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_libirated.jpg,Bild 583,"weapon, weapon, weapon, agricultural labourer, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_life_back.jpg,Bild 584,"agricultural labourer, flag, military, weapon, star, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_locomotives.jpg,Bild 585,"factory worker, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_long_kesh.jpg,Bild 586,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_love_books.jpg,Bild 587,"factory worker, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_marx_engels_lenin.jpg,Bild 588,"military, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_master.jpg,Bild 589,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_militarism_bomb.jpg,Bild 590,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_military_secret.jpg,Bild 591,"factory worker, book"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_milk_cow.jpg,Bild 592,"agricultural labourer, factory worker, building"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_mir_peace.jpg,Bild 593,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_more_metall.jpg,Bild 594,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_mors.jpg,Bild 595,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_moscow_subway.jpg,Bild 596,"military, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_mosselprom.jpg,Bild 597,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_mother-heroine.jpg,Bild 598,"military, factory worker, factory worker, factory worker, office worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_mother_daughter.jpg,Bild 599,"factory worker, agricultural labourer, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_motherland.jpg,Bild 600,"book, headscarf, factory worker, headscarf, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_movie_girls.jpg,Bild 601,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_myth-reality.jpg,Bild 602,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_nations_of_world.jpg,Bild 603,"hammer, building, factory worker, flag, flag, hammer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_nato_airplanes.jpg,Bild 604,"plane, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_nato_bw.jpg,Bild 605,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_nato_tree.jpg,Bild 606,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_natural_gas.jpg,Bild 607,"flag, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_net_no.jpg,Bild 608,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_night_job.jpg,Bild 609,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_nkp.jpg,Bild 610,"military, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_no-to-fascism.jpg,Bild 611,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_no_to_bomb.jpg,Bild 612,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_no_to_vodka.jpg,Bild 613,agricultural labourer
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_no_war_ivanov.jpg,Bild 614,headscarf
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_nostalgy.jpg,Bild 615,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_not_a_drop.jpg,Bild 616,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_not_lose.jpg,Bild 617,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_nuclear_engineering.jpg,Bild 618,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oblomov.jpg,Bild 619,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_october.jpg,Bild 620,"flag, grass"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_october_revolution.jpg,Bild 621,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_october_revolution_conquest.jpg,Bild 622,"weapon, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0001.jpg,Bild 623,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0002.jpg,Bild 624,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0003.jpg,Bild 625,wheat
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0004.jpg,Bild 626,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0005.jpg,Bild 627,crane
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0006.jpg,Bild 628,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0007.jpg,Bild 629,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0008.jpg,Bild 630,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0009.jpg,Bild 631,agricultural labourer
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0011.jpg,Bild 632,flag
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0012.jpg,Bild 633,"machinery, military, machinery, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0013.jpg,Bild 634,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0014.jpg,Bild 635,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0016.jpg,Bild 636,"weapon, office worker, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0017.jpg,Bild 637,"factory worker, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0018.jpg,Bild 638,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0019.jpg,Bild 639,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0020.jpg,Bild 640,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0021.jpg,Bild 641,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0022.jpg,Bild 642,building
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0024.jpg,Bild 643,"sky, sky"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0025.jpg,Bild 644,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0026.jpg,Bild 645,"sky, factory worker, weapon, crane"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0027.jpg,Bild 646,"factory worker, building"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0028.jpg,Bild 647,agricultural labourer
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0029.jpg,Bild 648,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0030.jpg,Bild 649,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0031.jpg,Bild 650,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0032.jpg,Bild 651,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0033.jpg,Bild 652,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0034.jpg,Bild 653,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0036.jpg,Bild 654,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0037.jpg,Bild 655,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0038.jpg,Bild 656,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0039.jpg,Bild 657,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0041.jpg,Bild 658,"factory worker, office worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0042.jpg,Bild 659,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0044.jpg,Bild 660,flag
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0046.jpg,Bild 661,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_oldruspost_0047.jpg,Bild 662,"weapon, weapon, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_on_duty.jpg,Bild 663,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_only_party_can.jpg,Bild 664,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_onto_tractor.jpg,Bild 665,"factory worker, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_our_profit.jpg,Bild 666,"flag, crane"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_our_request.jpg,Bild 667,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_our_weapon.jpg,Bild 668,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_paint_brush.jpg,Bild 669,sky
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_paix.jpg,Bild 670,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_palm_branch.jpg,Bild 671,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_parenthoodsovpost_00005.jpg,Bild 672,flag
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_parenthoodsovpost_00006.jpg,Bild 673,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_parenthoodsovpost_00011.jpg,Bild 674,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_parenthoodsovpost_00014.jpg,Bild 675,"factory worker, factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_parenthoodsovpost_00019.jpg,Bild 676,agricultural labourer
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_parenthoodsovpost_00022.jpg,Bild 677,"agricultural labourer, agricultural labourer, agricultural labourer, agricultural labourer, agricultural labourer, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_parenthoodsovpost_00026.jpg,Bild 678,agricultural labourer
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_parenthoodsovpost_00028.jpg,Bild 679,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_parenthoodsovpost_00030.jpg,Bild 680,"agricultural labourer, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_parenthoodsovpost_00032.jpg,Bild 681,"agricultural labourer, agricultural labourer, factory worker, factory worker, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_parenthoodsovpost_00033.jpg,Bild 682,"agricultural labourer, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_parenthoodsovpost_00037.jpg,Bild 683,"factory worker, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_parenthoodsovpost_00038.jpg,Bild 684,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_parenthoodsovpost_00040.jpg,Bild 685,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_parenthoodsovpost_00043.jpg,Bild 686,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_parenthoodsovpost_00045.jpg,Bild 687,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_party_beginning.jpg,Bild 688,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_peace_birds.jpg,Bild 689,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_peace_mother_sun.jpg,Bild 690,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_peace_needed.jpg,Bild 691,crane
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_peace_october.jpg,Bild 692,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_peace_planet.jpg,Bild 693,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_peace_vote.jpg,Bild 694,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_peace_work.jpg,Bild 695,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_peace_world.jpg,Bild 696,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_peaceful_people.jpg,Bild 697,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_pelmeni_food.jpg,Bild 698,flag
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_pilot.jpg,Bild 699,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_pioneer.jpg,Bild 700,"weapon, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_plan_great_works.jpg,Bild 701,machinery
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_planet_peace.jpg,Bild 702,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_plugged.jpg,Bild 703,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_police_alert.jpg,Bild 704,"agricultural labourer, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_potemkin.jpg,Bild 705,agricultural labourer
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_proletarian_army.jpg,Bild 706,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_protect_peace.jpg,Bild 707,"military, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_protect_petrograd.jpg,Bild 708,"military, wheat, wheat, wheat, wheat"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_protect_world.jpg,Bild 709,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_proud_of_son.jpg,Bild 710,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_puzzle.jpg,Bild 711,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_pyshka.jpg,Bild 712,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_quit_smoking.jpg,Bild 713,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_rainbow_olympic_colors.jpg,Bild 714,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_red_army.jpg,Bild 715,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_red_army_broom.jpg,Bild 716,"weapon, weapon, wheat"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_red_book_nature.jpg,Bild 717,"weapon, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_red_hit_white.jpg,Bild 718,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_red_moscow.jpg,Bild 719,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_rest.jpg,Bild 720,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_rich_harvest.jpg,Bild 721,"agricultural labourer, headscarf, agricultural labourer, wheat, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_russian_airplane.jpg,Bild 722,"star, flag, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_save_us_red_army.jpg,Bild 723,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_save_water.jpg,Bild 724,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_saying.jpg,Bild 725,sky
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_seaman_hero.jpg,Bild 726,"sky, star, sky"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_second_five_year_plan.jpg,Bild 727,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_secure_fields.jpg,Bild 728,"building, building, building, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_shame.jpg,Bild 729,"office worker, factory worker, office worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_skating.jpg,Bild 730,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_ski.jpg,Bild 731,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_small_glass.jpg,Bild 732,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_smoking_pipe.jpg,Bild 733,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_smoking_wasted.jpg,Bild 734,"flag, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_socialism-communism.jpg,Bild 735,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_socialism_build.jpg,Bild 736,building
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_socialism_communism.jpg,Bild 737,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_socialism_vs_capitalism.jpg,Bild 738,"factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_song_soul_movie.jpg,Bild 739,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_soski.jpg,Bild 740,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_soviet-flag.jpg,Bild 741,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_soviet_army_warrior.jpg,Bild 742,"weapon, factory worker, weapon, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_soviet_authors.jpg,Bild 743,"office worker, military, office worker, office worker, office worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_soviet_aviation_nation.jpg,Bild 744,"factory worker, military, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_soviet_kids_germans.jpg,Bild 745,"wheat, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_soviet_pilots.jpg,Bild 746,"agricultural labourer, plane, plane, plane"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_soviet_prostitute.jpg,Bild 747,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_soviet_threat.jpg,Bild 748,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sovmilpost18_50_0005.jpg,Bild 749,"factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sovpolpost_00002.jpg,Bild 750,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sovpolpost_00003.jpg,Bild 751,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sovpolpost_00005.jpg,Bild 752,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sovpolpost_00006.jpg,Bild 753,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sovpolpost_00009.jpg,Bild 754,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sovpolpost_00010_den.jpg,Bild 755,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sovpolpost_00012.jpg,Bild 756,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sovpolpost_00013.jpg,Bild 757,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sovpolpost_00016.jpg,Bild 758,"agricultural labourer, grass"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sovpolpost_00017.jpg,Bild 759,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sovpolpost_00032.jpg,Bild 760,"flag, building, factory worker, machinery, machinery"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sovpolpost_00042.jpg,Bild 761,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sovpolpost_00046.jpg,Bild 762,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sovpolpost_00080.jpg,Bild 763,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sovpolpost_00082.jpg,Bild 764,"factory worker, factory worker, factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sovpolpost_00108_den.jpg,Bild 765,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sovpolpost_00115.jpg,Bild 766,"military, office worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_space_militarization.jpg,Bild 767,"crane, crane"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_spartakiada.jpg,Bild 768,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_spartakiada_1928.jpg,Bild 769,machinery
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_spartakiada_nations_ussr.jpg,Bild 770,"weapon, factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_spongers.jpg,Bild 771,"building, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sport_peace.jpg,Bild 772,sky
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sportive_family.jpg,Bild 773,"crane, crane, agricultural labourer, crane, crane, crane, crane, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_stabbing_hitler.jpg,Bild 774,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_stalin-voroshilov.jpg,Bild 775,"military, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_stalin.jpg,Bild 776,"factory worker, sky"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_stalin_dzhugashvily.jpg,Bild 777,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_stalin_happiness.jpg,Bild 778,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_stalin_kids.jpg,Bild 779,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_stalin_leader.jpg,Bild 780,"agricultural labourer, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_stalin_pioneer.jpg,Bild 781,"agricultural labourer, agricultural labourer, agricultural labourer, crane"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_stalin_svetoch.jpg,Bild 782,"agricultural labourer, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_stalin_voroshilov.jpg,Bild 783,"flag, factory worker, flag, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_stalin_wheel.jpg,Bild 784,"machinery, weapon, factory worker, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_stalins_falcons.jpg,Bild 785,plane
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_starving_drunk.jpg,Bild 786,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_starving_hungry.jpg,Bild 787,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_state_secret.jpg,Bild 788,"factory worker, weapon, factory worker, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_sun_air_water.jpg,Bild 789,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_tabacco_products.jpg,Bild 790,"factory worker, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_theater.jpg,Bild 791,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_theather_ad.jpg,Bild 792,building
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_thieves_fight.jpg,Bild 793,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_tire_manufacturer.jpg,Bild 794,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_to_build.jpg,Bild 795,flag
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_to_have_more.jpg,Bild 796,"sky, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_to_west.jpg,Bild 797,"plane, plane"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_transport-brother.jpg,Bild 798,"factory worker, star, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_tselina.jpg,Bild 799,"office worker, factory worker, agricultural labourer, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_tulip.jpg,Bild 800,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_union_science.jpg,Bild 801,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_united_russia.jpg,Bild 802,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_ural_to_front.jpg,Bild 803,wheat
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_usa_nato.jpg,Bild 804,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_victorious_soldier.jpg,Bild 805,agricultural labourer
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_victory-flag.jpg,Bild 806,"military, weapon, weapon, military, military, weapon, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_vladimir-mayakovsky.jpg,Bild 807,"military, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_vladivostok.jpg,Bild 808,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_vodka_german.jpg,Bild 809,office worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_voice_of_earth.jpg,Bild 810,"weapon, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_volga.jpg,Bild 811,"building, building, crane"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_volunteer.jpg,Bild 812,"weapon, weapon, weapon, weapon, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_vse_dlya_fronta.jpg,Bild 813,"factory worker, weapon, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_walk_to_berlin.jpg,Bild 814,"military, weapon, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_war_peace._website_new.jpg,Bild 815,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_war_suicide.jpg,Bild 816,"weapon, star, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_warsovpost_00002_den.jpg,Bild 817,"military, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_way_to_victory.jpg,Bild 818,"military, weapon, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_we_can_save.jpg,Bild 819,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_we_for_peace.jpg,Bild 820,"agricultural labourer, sickle, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_weapon_of_heroes.jpg,Bild 821,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_will_defend_moscow.jpg,Bild 822,"factory worker, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_will_work.jpg,Bild 823,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_with_victory.jpg,Bild 824,"agricultural labourer, wheat"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_women_in_kolhoz.jpg,Bild 825,flag
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_women_international_congress.jpg,Bild 826,"headscarf, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_women_planet.jpg,Bild 827,star
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_women_rights.jpg,Bild 828,"factory worker, office worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_worker_peasant.jpg,Bild 829,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_workers.jpg,Bild 830,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_working_class.jpg,Bild 831,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_worlds_centuries.jpg,Bild 832,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_you_will_be_hero.jpg,Bild 833,"agricultural labourer, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_young_communists.jpg,Bild 834,"agricultural labourer, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_young_worker_pioneer.jpg,Bild 835,"building, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_youth.jpg,Bild 836,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_youth_to_airplanes.jpg,Bild 837,"factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/popup_z_drogi.jpg,Bild 838,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/pravda_newspaper.jpg,Bild 839,sky
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/prevent_aids.jpg,Bild 840,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/printed-matter.jpg,Bild 841,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/proletarian_internationalism.jpg,Bild 842,"flag, factory worker, agricultural labourer, factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/quality_progresst.jpg,Bild 843,flag
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/quiet_dawns.jpg,Bild 844,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/rainbow_bomb_lgbt.png,Bild 845,crane
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/read_books.jpg,Bild 846,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/ready-labor-defense.jpg,Bild 847,"plane, plane"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/red_army_must.jpg,Bild 848,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/red_october_factory.jpg,Bild 849,"flag, weapon, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/relay_race.jpg,Bild 850,"factory worker, book"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/remember_leaving_work_earlier.jpg,Bild 851,"flag, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/respect_brand.jpg,Bild 852,"wheat, weapon, military, wheat, weapon, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/respected_profession.jpg,Bild 853,"factory worker, book, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/return_the_book.jpg,Bild 854,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/revenge.jpg,Bild 855,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/rowing_sailing.jpg,Bild 856,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/russian_military_vessel_fuc.jpg,Bild 857,agricultural labourer
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/sake_of_communism.jpg,Bild 858,"weapon, factory worker, factory worker, weapon, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/saluto-compagni.jpg,Bild 859,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/sand_clock.png,Bild 860,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/sanit_toothpaste.jpg,Bild 861,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/save_lube.jpg,Bild 862,"weapon, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/save_monuments.jpg,Bild 863,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/save_world_lenin.jpg,Bild 864,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/serve-culturally.jpg,Bild 865,"agricultural labourer, headscarf, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/short_rest.jpg,Bild 866,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/sightseeing_moscow.jpg,Bild 867,"factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/singing_dancing.jpg,Bild 868,"weapon, factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/smoking_child_every_child.jpg,Bild 869,"agricultural labourer, agricultural labourer, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/soberness_life.jpg,Bild 870,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/socialism_attacks.jpg,Bild 871,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/socialism_workers.jpg,Bild 872,agricultural labourer
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/son_of_sssr.jpg,Bild 873,"office worker, factory worker, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/song_dance_honored.jpg,Bild 874,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/soviet_champagne.jpg,Bild 875,"factory worker, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/soviet_elections.jpg,Bild 876,"military, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/soviet_football.jpg,Bild 877,"factory worker, star"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/soviet_youth.jpg,Bild 878,"sky, military, crane, sky"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/space_shuttle.jpg,Bild 879,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/sport-cccp.jpg,Bild 880,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/spring_chores.jpg,Bild 881,headscarf
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/spy_will_find_you.jpg,Bild 882,"factory worker, military, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/stalin_brick_monument.jpg,Bild 883,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/stalin_drought.jpg,Bild 884,agricultural labourer
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/stalin_lenin.jpg,Bild 885,"factory worker, office worker, military, military, crane, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/stalin_pipe.jpg,Bild 886,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/stalin_stahanov.jpg,Bild 887,"factory worker, agricultural labourer, agricultural labourer, agricultural labourer, office worker, headscarf, agricultural labourer"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/stop-last-warning.jpg,Bild 888,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/stop_aggressor.jpg,Bild 889,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/stop_arms_race.jpg,Bild 890,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/strate_a.jpg,Bild 891,"military, factory worker, factory worker, military"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/teaching-of-marx.jpg,Bild 892,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/the_people_and_the_army.jpg,Bild 893,"factory worker, weapon, weapon, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/to_moscow_from_moscow.jpg,Bild 894,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/to_protect_ural.jpg,Bild 895,"weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/to_stars_to_sun.jpg,Bild 896,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/to_the_bright_future.jpg,Bild 897,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/trap.jpg,Bild 898,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/triumph_cosmos.jpg,Bild 899,"weapon, star"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/true_fun.jpg,Bild 900,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/uncommon_thief.jpg,Bild 901,"weapon, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/under_lenin_flag.jpg,Bild 902,military
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/union_born_october.jpg,Bild 903,star
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/united_nation.jpg,Bild 904,"military, flag"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/us_interests.jpg,Bild 905,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/usa_bombs_targeting.jpg,Bild 906,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/usa_chain_dollar.jpg,Bild 907,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/value_every_minute.jpg,Bild 908,"machinery, machinery"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/vcspo.jpg,Bild 909,wheat
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/victory_of_october.jpg,Bild 910,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/vietnam_aggression.jpg,Bild 911,"factory worker, factory worker, weapon, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/virgin_lands.jpg,Bild 912,grass
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/vkpb_1947.jpg,Bild 913,"factory worker, headscarf, military, military, factory worker, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/vote_motherland.jpg,Bild 914,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/warning_do_not.jpg,Bild 915,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/we_need_peace.jpg,Bild 916,"factory worker, military, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/we_will_help.jpg,Bild 917,"factory worker, weapon, weapon, military, factory worker, weapon"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/whiteguards.jpg,Bild 918,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/will_become_sheep_breeder.jpg,Bild 919,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/will_of_kulak.jpg,Bild 920,"factory worker, agricultural labourer, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/will_rebuild.jpg,Bild 921,"grass, factory worker, agricultural labourer, grass, machinery"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/woman_learrn.jpg,Bild 922,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/woman_onto_locomotive.jpg,Bild 923,"agricultural labourer, objects"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/women_hero_su.jpg,Bild 924,"factory worker, factory worker, factory worker"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/word_action.jpg,Bild 925,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/work_build_whine.jpg,Bild 926,
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/work_minutes.jpg,Bild 927,weapon
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/work_time.jpg,Bild 928,building
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/worker-fight.jpg,Bild 929,factory worker
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/world_owner_capital.jpg,Bild 930,wheat
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/your-lamp-comrade.jpg,Bild 931,"military, military, headscarf"
+/content/gdrive/MyDrive/Colab Notebooks/yolo/test/USSR/youth_to_ski.jpg,Bild 932,"agricultural labourer, headscarf"

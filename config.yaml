@@ -1,0 +1,16 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or §) list: [path/to/imgs1, path/to/imgs2, ..]
+path: '/home/sc.uni-leipzig.de/lj25vapa/Cultural Analytics/yolo' # dataset root dir
+train: train/images # train images (relative to 'path')
+val: validation/images # val images (relative to 'path')
+
+nc: 22
+names: ['agricultural labourer', 'book', 'building', 'crane', 'factory worker', 'flag', 'flower', 'grass', 'hammer', 'headscarf', 'horse', 'machinery', 'military', 'mountain', 'objects', 'office worker', 'plane', 'sickle', 'sky', 'star', 'weapon', 'wheat']
+
+cls_weights: [1.0, 2.5, 2.0, 3.0, 1.5, 1.5, 1.5, 1.5, 1.0, 1.5, 2.0, 1.5, 2.0, 3.0, 1.0, 1.5, 2.5, 1.5, 1.5, 2.5, 1.5, 1.5]
+
+roboflow:
+  workspace: cultural-analytics
+  project: yolo-kbgcg
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/cultural-analytics/yolo-kbgcg/dataset/5
